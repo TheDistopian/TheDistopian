@@ -1,7 +1,7 @@
 <body>
   <h1>👋 Hi, I’m @TheDistopian</h1>
   <p>👀 I’m lazy gamer and beginner programmer<br><br>
-  🌱 I’m learning python and C++</p>
+  🌱 Currently learning Python and C++</p>
 </body>
 
 <!---
