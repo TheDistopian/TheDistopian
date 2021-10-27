@@ -1,5 +1,5 @@
 <body>
-  <h1>👋 Hi, I’m @TheDistopian</h1>
+  <h1>👋 Hi, I’m @TheDystopian</h1>
   <p>👀 I’m lazy gamer and beginner programmer<br><br>
   🌱 Currently learning Python and C++</p>
 </body>
